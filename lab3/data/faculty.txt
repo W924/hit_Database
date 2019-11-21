@@ -1,0 +1,5 @@
+CSA1	计算机工程	CS
+CSA2	计算机科学	CS
+CSB1	自然语言处理	CS
+CSB2	视听觉信号处理	CS
+CSB3	大数据	CS

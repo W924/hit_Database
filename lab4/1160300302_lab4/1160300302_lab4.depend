@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1552894752 source:e:\course\database\lab4\1160300302_lab4\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 e:\course\database\lab4\1160300302_lab4\extmem.h
+
+1558140108 source:e:\course\database\lab4\1160300302_lab4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"extmem.h"
+
+1552894752 e:\course\database\lab4\1160300302_lab4\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1557234637 source:e:\course\database\lab4\1160300302_lab4\test.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+

@@ -1,0 +1,5 @@
+Economy Department	000	09	2014-03-20
+Sales Department	001	06	2016-06-17
+Human Resource Department	010	12	2003-12-03
+Produce Department	011	14	2011-05-09
+Research Department	100	20	2013-09-26
